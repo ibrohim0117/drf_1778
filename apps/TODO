@@ -1,0 +1,6 @@
+# uyga vazifa
+
+1) Yozilgan hamma kodlarni ishlatib takrorlab kelish
+2) CreateProductApiView ni yaratish
+3) CreateCategoryApiView
+4) Productni filter qiladigan qilish (name, discription, price, category, owner)
